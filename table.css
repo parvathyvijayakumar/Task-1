@@ -1,0 +1,30 @@
+table{
+    height: 210px;
+    width: 1000px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: yellow;
+    padding: 10px;
+    position: absolute;
+    top: 33%;
+    left: 20%;
+}
+th,td{
+    height: 30px;
+    width: 200px;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: black;
+    color: blue;
+}
+td{
+    text-align: center;
+}
+h1{
+    color: blue;
+    text-decoration: underline;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
